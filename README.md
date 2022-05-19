@@ -1,2 +1,2 @@
-# MITx-6.4119x-Data-Analysis
+# MITx-6.419x-Data-Analysis
 Data Analysis: Statistical Modeling and Computation in Applications
